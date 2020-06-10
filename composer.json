@@ -1,0 +1,20 @@
+{
+  "name": "axome/axstarter",
+  "description": "Axome :: Module Starter",
+  "authors": [
+    {
+      "name": "Axome",
+      "email": "dev@axome.com"
+    },
+    {
+      "name": "Araujo Antoine",
+      "email": "aaraujo@axome.com"
+    }
+  ],
+  "license": "proprietary",
+  "autoload": {
+    "psr-4": {
+      "AxStarter\\": "src"
+    }
+  }
+}
